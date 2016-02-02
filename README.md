@@ -34,3 +34,4 @@
 ## CHANGELOG
 ### v0.1
 * 简单粗暴还不够吗
+* test if it would change as the host comfirm a new change with the text
